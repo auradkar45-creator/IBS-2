@@ -118,12 +118,12 @@ Total Features per Sequence:
 
 #  Generated Files
 
-- rice_healthy_3000bp.fasta
-- rice_diseased_clean.fasta
+- feature_extraction.py
+- rice_healthy_3000.fasta
+- rice_diseased_3000.fasta
 - rice_full_dataset.csv
 - train_features.csv
 - test_features.csv
-- variant_statistics_clean.csv
 - alignment_example.txt
 
 
